@@ -1,0 +1,1 @@
+[![Build and Deploy](https://github.com/pavelbarnz91/TK/actions/workflows/learn-github-actions.yml/badge.svg?branch=master)](https://github.com/pavelbarnz91/TK/actions/workflows/learn-github-actions.yml)
